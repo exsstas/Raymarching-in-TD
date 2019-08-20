@@ -12,6 +12,5 @@ I'm in process of making templates and video totorial for helping to do raymarch
 **template - array.toe** — Variation of a basic raymarcher template for creating geometry from texture buffer array
 
 **tutorial - part 1.toe** — Supplementary file for a Part I of the tutorial. Main covered topic is describing a scene for RM using two approaches: basic uniforms and hard-coded variables for creating a geometry and an texture buffer array for using CHOP data in a loop.
-Link to the video
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wpn5LDbvcBU" target="_blank"><img src="http://img.youtube.com/vi/wpn5LDbvcBU/0.jpg" alt="video tutorial 1" width="384" height="216" border="5" /></a>
