@@ -25,6 +25,8 @@ I'm in process of making templates and video totorial for helping to do raymarch
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IZUqM9CRjTk" target="_blank"><img src="http://img.youtube.com/vi/IZUqM9CRjTk/0.jpg" alt="video tutorial 2" width="384" height="216" border="5" /></a>
 
 
+**tutorial - part 3.toe** — Supplementary file for a Part III of the tutorial. This one is about different apporoaches to warping a space as an instrument of modifing geometry: trigonometrical functions, gyroids, endless repetitions, kaleidoscopic iterations, fractals and so on.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2cMhk_crpY8" target="_blank"><img src="http://img.youtube.com/vi/2cMhk_crpY8/0.jpg" alt="video tutorial 3" width="384" height="216" border="5" /></a>
 
 PS: if you found this repo/tutorials helpful, you can support me on Patreon https://www.patreon.com/exsstas or you make one-time donation instead of monthly subscription, you can use https://paypal.me/exsstas it will motivate me to make more tutorials ;)
