@@ -1,7 +1,7 @@
 *GLSL raymarching within TouchDesigner*
 ------
 
-I'm in process of making templates and video totorial for helping to do raymarching (RM) in TouchDesigner.
+I'm in process of making templates and video tutorial for helping to do raymarching (RM) in TouchDesigner.
 
 **SDF tests.toe** — Performance test with two different approaches to sampling coordinates and GLSL code from two different RM tutorials
 
@@ -25,7 +25,7 @@ I'm in process of making templates and video totorial for helping to do raymarch
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IZUqM9CRjTk" target="_blank"><img src="http://img.youtube.com/vi/IZUqM9CRjTk/0.jpg" alt="video tutorial 2" width="384" height="216" border="5" /></a>
 
 
-**tutorial - part 3.toe** — Supplementary file for a Part III of the tutorial. This one is about different apporoaches to warping a space as an instrument of modifing geometry: trigonometrical functions, gyroids, endless repetitions, kaleidoscopic iterations, fractals and so on.
+**tutorial - part 3.toe** — Supplementary file for a Part III of the tutorial. This one is about different apporoaches to warping a space as an instrument of modifying geometry: trigonometrical functions, gyroids, endless repetitions, kaleidoscopic iterations, fractals and so on.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2cMhk_crpY8" target="_blank"><img src="http://img.youtube.com/vi/2cMhk_crpY8/0.jpg" alt="video tutorial 3" width="384" height="216" border="5" /></a>
 
