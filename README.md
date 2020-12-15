@@ -5,15 +5,15 @@ I'm in process of making templates and video tutorial for helping to do raymarch
 
 **SDF tests.toe** — Performance test with two different approaches to sampling coordinates and GLSL code from two different RM tutorials
 
+**RM+poly.toe**  — Shows how to combine polygonal geometry with standard rendering setup with raymarching.
+
 **template - basic.toe** — Basic raymarcher template for creating everything using vector uniforms
-
 **template - basic_v2.toe** — Same + shadows and ambient occlusion
-
+**template - basic_v3.toe** — Same, but different approach for a camera. Now you can use arcball camera COMP (or any other camera COMP) instead of tweaking values manually.
 
 **template - array.toe** — Variation of a basic raymarcher template for creating geometry from texture buffer array
-
 **template - array_v2.toe** — Same + shadows and ambient occlusion
-
+**template - array_v2.toe** — Same, but using arcball camera COMP instead of uniforms. And cubes instead of spheres, now it better shows how to feed a lot of parameters for primitive from TOPs.
 
 **tutorial - part 1.toe** — Supplementary file for a Part I of the tutorial. Main covered topic is describing a scene for RM using two approaches: basic uniforms and hard-coded variables for creating a geometry and an texture buffer array for using CHOP data in a loop.
 
@@ -29,4 +29,4 @@ I'm in process of making templates and video tutorial for helping to do raymarch
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2cMhk_crpY8" target="_blank"><img src="http://img.youtube.com/vi/2cMhk_crpY8/0.jpg" alt="video tutorial 3" width="384" height="216" border="5" /></a>
 
-PS: if you found this repo/tutorials helpful, you can support me on Patreon https://www.patreon.com/exsstas or you make one-time donation instead of monthly subscription, you can use https://paypal.me/exsstas it will motivate me to make more tutorials ;)
+PS: if you found this repo/tutorials helpful, you can support me on Patreon https://www.patreon.com/exsstas or you can make one-time donation instead of monthly subscription with https://paypal.me/exsstas — it will motivate me to make more tutorials ;)
